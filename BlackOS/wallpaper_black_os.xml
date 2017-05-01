@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<substratum>
+    <wallpaper id="Orange night">
+        <link>https://github.com/OSHeden/Erosion/blob/master/BlackOS/Wallpapers/3.jpg?raw=true</link>
+        <preview>https://github.com/OSHeden/Erosion/blob/master/BlackOS/Wallpapers/3.jpg?raw=true</preview>
+    </wallpaper>
+    <wallpaper id="White night">
+        <link>https://github.com/OSHeden/Erosion/blob/master/BlackOS/Wallpapers/5.jpg?raw=true</link>
+        <preview>https://github.com/OSHeden/Erosion/blob/master/BlackOS/Wallpapers/5.jpg?raw=true</preview>
+    </wallpaper>
+    <wallpaper id="Moon">
+        <link>https://github.com/OSHeden/Erosion/blob/master/BlackOS/Wallpapers/night.jpg?raw=true</link>
+        <preview>https://github.com/OSHeden/Erosion/blob/master/BlackOS/Wallpapers/night.jpg?raw=true</preview>
+    </wallpaper>
+    <wallpaper id="Town">
+        <link>https://github.com/OSHeden/Erosion/blob/master/BlackOS/Wallpapers/uploadfromtaptalk1369376708428.jpg?raw=true</link>
+        <preview>https://github.com/OSHeden/Erosion/blob/master/BlackOS/Wallpapers/uploadfromtaptalk1369376708428.jpg?raw=true</preview>
+    </wallpaper>
+</substratum>
