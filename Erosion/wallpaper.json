@@ -1,0 +1,313 @@
+{
+	"Wallpapers":
+        [
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/abstract.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/abstract_thumb.jpg?raw=true",
+				"name": "Abstract"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/car.jpeg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/car_thumb.jpeg?raw=true",
+				"name": "Car"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/coconut.jpeg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/coconut_thumb.jpeg?raw=true",
+				"name": "Coconut"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/delicious.jpeg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/delicious_thumb.jpeg?raw=true",
+				"name": "Delicious"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/door.jpeg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/door_thumb.jpeg?raw=true",
+				"name": "Door"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/erosion2.jpeg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/erosion2_thumb.jpeg?raw=true",
+				"name": "Erosion2"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/erosion3.jpeg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/erosion3_thumb.jpeg?raw=true",
+				"name": "Erosion3"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/erosion.jpeg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/erosion_thumb.jpeg?raw=true",
+				"name": "Erosion"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/flower.jpeg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/flower_thumb.jpeg?raw=true",
+				"name": "Flower"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/flower2.jpeg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/flower2_thumb.jpeg?raw=true",
+				"name": "Flower 2"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/flower3.jpeg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/flower3_thumb.jpeg?raw=true",
+				"name": "Flower 3"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/ghosts.jpeg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/ghosts_thumb.jpeg?raw=true",
+				"name": "Ghosts"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/glass.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/glass_thumb.jpg?raw=true",
+				"name": "Glass"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/lake.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/lake_thumb.jpg?raw=true",
+				"name": "Lake"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/light2.jpeg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/light2_thumb.jpeg?raw=true",
+				"name": "Light2"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/light.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/light_thumb.jpg?raw=true",
+				"name": "Light"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/light_yellow.jpeg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/light_yellow_thumb.jpeg?raw=true",
+				"name": "Light Yellow"
+
+			},
+			{
+				"author": "Rounded Hexagon",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/low_poly_grey.png?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/low_poly_grey_thumb.png?raw=true",
+				"name": "Low Poly Grey"
+
+			},
+			{
+				"author": "Rounded Hexagon",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/low_poly_light.png?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/low_poly_light_thumb.png?raw=true",
+				"name": "Low Poly Light"
+
+			},
+			{
+				"author": "Aaron Bramwell",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/low_poly_misc2.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/low_poly_misc2_thumb.jpg?raw=true",
+				"name": "Low Poly Misc 2"
+
+			},
+			{
+				"author": "Media Militia",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/low_poly_misc3.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/low_poly_misc3_thumb.jpg?raw=true",
+				"name": "Low Poly Misc 3"
+
+			},
+			{
+				"author": "Aaron Bramwell",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/low_poly_misc.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/low_poly_misc_thumb.jpg?raw=true",
+				"name": "Low Poly Misc"
+
+			},
+			{
+				"author": "Spoon Graphics",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/low_poly_orange2.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/low_poly_orange2_thumb.jpg?raw=true",
+				"name": "Low Poly Orange 2"
+
+			},
+			{
+				"author": "Spoon Graphics",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/low_poly_orange.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/low_poly_orange_thumb.jpg?raw=true",
+				"name": "Low Poly Orange"
+
+			},
+			{
+				"author": "Rounded Hexagon",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/low_poly_purple2.png?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/low_poly_purple2_thumb.png?raw=true",
+				"name": "Low Poly Purple 2"
+
+			},
+			{
+				"author": "Rounded Hexagon",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/low_poly_purple.png?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/low_poly_purple_thumb.png?raw=true",
+				"name": "Low Poly Purple"
+
+			},
+			{
+				"author": "Rounded Hexagon",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/low_poly_red2.png?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/low_poly_red2_thumb.png?raw=true",
+				"name": "Low Poly Red 2"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/mountain2.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/mountain2_thumb.jpg?raw=true",
+				"name": "Mountain 2"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/mountain_blue.jpeg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/mountain_blue_thumb.jpeg?raw=true",
+				"name": "Mountain Blue"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/mountain.jpeg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/mountain_thumb.jpeg?raw=true",
+				"name": "Mountain"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/paint.jpeg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/paint_thumb.jpeg?raw=true",
+				"name": "Paint"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/phone.jpeg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/phone_thumb.jpeg?raw=true",
+				"name": "Phone"
+
+			},
+			{
+				"author": "Media Militia",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/poly_blue_dark.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/poly_blue_dark_thumb.jpg?raw=true",
+				"name": "Poly Blue Dark"
+
+			},
+			{
+				"author": "Aaron Bramwell",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/polygon-green.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/polygon-green_thumb.jpg?raw=true",
+				"name": "Polygons Green"
+
+			},
+			{
+				"author": "Media Militia",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/polygons.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/polygons_thumb.jpg?raw=true",
+				"name": "Polygons"
+
+			},
+			{
+				"author": "Media Militia",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/poly_light.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/poly_light_thumb.jpg?raw=true",
+				"name": "Poly Light"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/red_sun.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/red_sun_thumb.jpg?raw=true",
+				"name": "Red Sun"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/rock.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/rock_thumb.jpg?raw=true",
+				"name": "Rock"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/sea.jpeg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/sea_thumb.jpeg?raw=true",
+				"name": "Sea"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/sea_sky.jpeg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/sea_sky_thumb.jpeg?raw=true",
+				"name": "Sea Sky"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/skull.jpeg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/skull_thumb.jpeg?raw=true",
+				"name": "Skull"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/terre.jpeg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/terre_thumb.jpeg?raw=true",
+				"name": "Terre"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/water.jpeg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/water_thumb.jpeg?raw=true",
+				"name": "Water"
+
+			},
+			{
+				"author": "Pexels",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/wolf.jpeg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Erosion/Wallpaper_thumbs/wolf_thumb.jpeg?raw=true",
+				"name": "Wolf"
+
+			}
+		]
+}
