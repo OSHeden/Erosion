@@ -21,7 +21,7 @@ I get your email address only when you send me an email about:
 * An icon request (Icon Pack apps)
 * Screenshots
 * Bug reports
-* Features requests
+* Feature requests
 
 Contact me through Google Plus, Telegram or Twitter if you do not want to share your email address.
 
