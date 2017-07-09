@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Elodie Naille** operates the Android application **Sinfonia**, available on the Google Play Store: https://play.google.com/store/apps/details?id=com.osheden.sinfonia
+**Elodie Naille** operates the Android application **Sinfonia**, available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.osheden.sinfonia).
 
 This page is used to inform Android users regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Application.
 
