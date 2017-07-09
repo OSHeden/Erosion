@@ -1,5 +1,4 @@
-# Erosion
-Icon pack for Android
+# Icon packs for Android by OSheden
 
-Only wallpapers are stored in this repo.
-Erosion uses the [CandyBar](https://github.com/danimahardhika/candybar-library) dashboard.
+Only configuration files are stored in this repo.
+My icon packs use the [CandyBar](https://github.com/danimahardhika/candybar-library) dashboard.
