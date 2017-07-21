@@ -105,6 +105,27 @@
 				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/zen_thumb.jpg?raw=true",
 				"name": "zen"
 
+			},
+			{
+				"author": "OSheden",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/wallpaper_purple.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/wallpaper_purple_thumb.jpg?raw=true",
+				"name": "Purple"
+				
+			},
+			{
+				"author": "OSheden",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/wallpaper_pink.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/wallpaper_pink_thumb.jpg?raw=true",
+				"name": "Pink"
+				
+			},
+			{
+				"author": "OSheden",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/wallpaper_cyan.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/wallpaper_cyan_thumb.jpg?raw=true",
+				"name": "Cyan"
+				
 			}
 		]
 }
