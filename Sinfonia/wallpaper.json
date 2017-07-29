@@ -126,6 +126,20 @@
 				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/wallpaper_cyan_thumb.jpg?raw=true",
 				"name": "Cyan"
 				
+			},
+		{
+				"author": "OSheden",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/bubbles.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/bubbles_thumb.jpg?raw=true",
+				"name": "Bubbles"
+				
+			},
+		{
+				"author": "OSheden",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/quote.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/quote_thumb.jpg?raw=true",
+				"name": "Quote"
+				
 			}
 		]
 }
