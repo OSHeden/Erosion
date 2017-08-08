@@ -140,6 +140,13 @@
 				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/quote_thumb.jpg?raw=true",
 				"name": "Quote"
 				
-			}
+			},
+		{
+                                "author": "OSheden",
+                                "url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/wallpaper_md.png?raw=true",
+                                "thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/wallpaper_md_thumb.png?raw=true",
+                                "name": "Material design"
+			
+                        }
 		]
 }
