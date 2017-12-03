@@ -1,0 +1,82 @@
+{
+	"Wallpapers":
+        [
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Pixello/Wallpapers/abstract_blue.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Pixello/Wallpapers/abstract_blue_thumb.jpg?raw=true",
+				"name": "abstract_blue"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Pixello/Wallpapers/abstract_violet.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Pixello/Wallpapers/abstract_violet_thumb.jpg?raw=true",
+				"name": "abstract_violet"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Pixello/Wallpapers/bird.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Pixello/Wallpapers/bird_thumb.jpg?raw=true",
+				"name": "bird"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Pixello/Wallpapers/circle.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Pixello/Wallpapers/circle_thumb.jpg?raw=true",
+				"name": "circle"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Pixello/Wallpapers/lion2.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Pixello/Wallpapers/lion2_thumb.jpg?raw=true",
+				"name": "lion2"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Pixello/Wallpapers/lion.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Pixello/Wallpapers/lion_thumb.jpg?raw=true",
+				"name": "lion"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Pixello/Wallpapers/lion3.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Pixello/Wallpapers/lion3_thumb.jpg?raw=true",
+				"name": "lion3"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Pixello/Wallpapers/lion4.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Pixello/Wallpapers/lion4_thumb.jpg?raw=true",
+				"name": "lion4"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Pixello/Wallpapers/street.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Pixello/Wallpapers/street_thumb.jpg?raw=true",
+				"name": "street"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Pixello/Wallpapers/waves.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Pixello/Wallpapers/waves_thumb.jpg?raw=true",
+				"name": "waves"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Pixello/Wallpapers/waves2.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Pixello/Wallpapers/waves2_thumb.jpg?raw=true",
+				"name": "waves2"
+
+			}
+		]
+}
