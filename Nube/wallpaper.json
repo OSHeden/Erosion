@@ -1,0 +1,54 @@
+{
+	"Wallpapers":
+        [
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Nube/Wallpapers/boat-house-2881457_1920.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Nube/Wallpapers/boat-house-2881457_1920_thumbs.jpg?raw=true",
+				"name": "boat"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Nube/Wallpapers/flower-3079872.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Nube/Wallpapers/flower-3079872_thumbs.jpg?raw=true",
+				"name": "flower"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Nube/Wallpapers/moon-3084617.png?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Nube/Wallpapers/moon-3084617_thumbs.png?raw=true",
+				"name": "moon"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Nube/Wallpapers/portrait-3087255.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Nube/Wallpapers/portrait-3087255_thumbs.jpg?raw=true",
+				"name": "portrait"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Nube/Wallpapers/snake-3066876_1920.png?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Nube/Wallpapers/snake-3066876_1920_thumbs.png?raw=true",
+				"name": "snake"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Nube/Wallpapers/tomcat-3092804_1920.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Nube/Wallpapers/tomcat-3092804_1920_thumbs.jpg?raw=true",
+				"name": "cat"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Nube/Wallpapers/underwater-2991478.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Nube/Wallpapers/underwater-2991478_thumbs.jpg?raw=true",
+				"name": "underwater"
+
+			}
+		]
+}
