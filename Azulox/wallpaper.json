@@ -1,0 +1,82 @@
+{
+	"Wallpapers":
+        [
+			{
+				"author": "Pixabay",
+				"url": "uuuuuuuuuuuuuuuuuuu",
+				"thumbUrl": "ttttttttttttttttttttt",
+				"name": "nnnnnnnnnnnnnnnnnnnn"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "uuuuuuuuuuuuuuuuuuu",
+				"thumbUrl": "ttttttttttttttttttttt",
+				"name": "nnnnnnnnnnnnnnnnnnnn"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "uuuuuuuuuuuuuuuuuuu",
+				"thumbUrl": "ttttttttttttttttttttt",
+				"name": "nnnnnnnnnnnnnnnnnnnn"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "uuuuuuuuuuuuuuuuuuu",
+				"thumbUrl": "ttttttttttttttttttttt",
+				"name": "nnnnnnnnnnnnnnnnnnnn"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Azulox/Wallpapers/airplane.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Azulox/Wallpapers/airplane_thumbs.jpg?raw=true",
+				"name": "airplane"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Azulox/Wallpapers/black_bird.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Azulox/Wallpapers/black_bird_thumbs.jpg?raw=true",
+				"name": "black_bird"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Azulox/Wallpapers/blue.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Azulox/Wallpapers/blue_thumbs.jpg?raw=true",
+				"name": "blue"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Azulox/Wallpapers/blue_abstract.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Azulox/Wallpapers/blue_abstract_thumbs.jpg?raw=true",
+				"name": "blue_abstract"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Azulox/Wallpapers/cloud.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Azulox/Wallpapers/cloud_thumbs.jpg?raw=true",
+				"name": "cloud"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Azulox/Wallpapers/smoke.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Azulox/Wallpapers/smoke_thumbs.jpg?raw=true",
+				"name": "smoke"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Azulox/Wallpapers/snow.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Azulox/Wallpapers/snow_thumbs.jpg?raw=true",
+				"name": "snow"
+
+			}
+		]
+}
