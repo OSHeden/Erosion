@@ -17,7 +17,7 @@ Link to the website: https://github.com
 
 
 ## The dashboard
-**OSHEDEN** uses a dashboard called CandyBar to get the following services:
+**OSHEDEN** uses a dashboard called CandyBar or Blueprint to get the following services:
 1. License checker (applications are downloaded from **GOOGLE PLAY**)
 2. Many supported launchers
 3. Icon Picker: see all icons included with sections and search
@@ -30,7 +30,7 @@ Link to the website: https://github.com
 
 No **USER** data is collected through the dashboard.
 
-Candybar is open source. **USERS** can audit the code on **GITHUB**: https://github.com/danimahardhika/candybar-library
+Candybar and Blueprint are open source. **USERS** can audit the code on **GITHUB**: https://github.com/danimahardhika/candybar-library or https://github.com/jahirfiquitiva/Blueprint
 
 To know why the dashboard requests some permissions, please read the built-in FAQ.
 
