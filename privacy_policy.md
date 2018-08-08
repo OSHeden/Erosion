@@ -22,7 +22,7 @@ Link to the website: https://github.com
 2. Many supported launchers
 3. Icon Picker: see all icons included with sections and search
 4. Icon request: free and premium requests. Premium requests are associated to the **GOOGLE PLAY STORE** accounts of **OSHEDEN** and the **USERS**.
-5. Cloud based wallpaper that are stored on **GITHUB** website.
+5. Cloud based wallpapers that are stored on **GITHUB** website.
 6. Changelog
 7. Muzei live wallpaper
 8. Localization: more than 10 languages are supported
@@ -43,7 +43,7 @@ The following information are written in the body of their emails (basic informa
 4. Screen resolution
 5. Android version
 6. App version
-7. CandyBar version
+7. CandyBar/Blueprint version
 8. Transaction ID for premium requests only
 9. App names of requested icons
 10. Package names and activities of requested icons
@@ -69,6 +69,7 @@ Here are the package names maintained by **OSHEDEN**:
 7. com.osheden.bestia
 8. com.osheden.sinfonia
 9. com.osheden.trium
+10. com.osheden.azulox
 
 This list will be updated as soon as a new application is published on **GOOGLE PLAY** or an application is removed from **GOOGLE PLAY**.  
 **OSHEDEN** only publishes applications on **GOOGLE PLAY**.
