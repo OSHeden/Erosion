@@ -71,6 +71,7 @@ Here are the package names maintained by **OSHEDEN**:
 9. com.osheden.trium
 10. com.osheden.azulox
 11. com.osheden.lox
+12. com.osheden.andropie
 
 This list will be updated as soon as a new application is published on **GOOGLE PLAY** or an application is removed from **GOOGLE PLAY**.  
 **OSHEDEN** only publishes applications on **GOOGLE PLAY**.
