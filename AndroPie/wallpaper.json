@@ -1,0 +1,39 @@
+{
+	"Wallpapers":
+        [
+			{
+				"author": "OSheden",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/AndroPie/Wallpapers/wallpaper_osheden.png?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/AndroPie/Wallpapers/wallpaper_osheden_thumbs.png?raw=true",
+				"name": "more_wallpapers"
+
+			},
+			{
+				"author": "OSheden",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/AndroPie/Wallpapers/wallpaper_osheden_2.png?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/AndroPie/Wallpapers/wallpaper_osheden_2_thumbs.png?raw=true",
+				"name": "macarons"
+
+			},
+						{
+				"author": "OSheden",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/AndroPie/Wallpapers/wallpaper_osheden_3.png?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/AndroPie/Wallpapers/wallpaper_osheden_3_thumbs.png?raw=true",
+				"name": "Apple Pie"
+
+			},
+						{
+				"author": "OSheden",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/AndroPie/Wallpapers/wallpaper_osheden_4.png?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/AndroPie/Wallpapers/wallpaper_osheden_4_thumbs.png?raw=true",
+				"name": "tea"
+
+			},
+						{
+				"author": "OSheden",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/AndroPie/Wallpapers/wallpaper_osheden_5.png?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/AndroPie/Wallpapers/wallpaper_osheden_5_thumbs.png?raw=true",
+				"name": "nature"
+			}
+		]
+}
