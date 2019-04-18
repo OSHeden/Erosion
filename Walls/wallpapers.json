@@ -124,5 +124,14 @@
     "downloadable": true,
     "dimensions": "1440x2560 px",
     "copyright": "CreativeCommons BY-NC"
+  },
+  {
+    "name": "Blue Eye",
+    "author": "OSheden",
+    "url": "https://github.com/OSHeden/Erosion/blob/master/Walls/Wallpapers/Eye_blue.png?raw=true",
+    "collections": "LIGHT|BLUE",
+    "downloadable": true,
+    "dimensions": "1300x2311 px",
+    "copyright": "CreativeCommons BY-NC"
   }
 ]
