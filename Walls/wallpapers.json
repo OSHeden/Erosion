@@ -295,5 +295,14 @@
     "downloadable": true,
     "dimensions": "1358x1920 px",
     "copyright": "CreativeCommons BY-NC"
+  },
+  {
+    "name": "Leg",
+    "author": "OSheden",
+    "url": "https://github.com/OSHeden/Erosion/blob/master/Walls/Wallpapers/Leg.png?raw=true",
+    "collections": "DARK",
+    "downloadable": true,
+    "dimensions": "964x1920 px",
+    "copyright": "CreativeCommons BY-NC"
   }
 ]
