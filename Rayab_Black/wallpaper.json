@@ -1,0 +1,19 @@
+{
+	"Wallpapers":
+        [
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/body.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/body.jpg?raw=true",
+				"name": "Body"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/cat_black.png?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/cat_black.png?raw=true",
+				"name": "Cat_Black"
+
+			}
+		]
+}
