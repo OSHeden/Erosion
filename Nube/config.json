@@ -1,0 +1,12 @@
+{
+  "latestVersion": "50.0",
+  "latestVersionCode": 50,
+  "disableRequest": {
+    "below": 49,
+    "on": "49.0"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.osheden.nube",
+  "releaseNotes": [
+    "More supported <b>apps</b> and <b><i>activities</i></b>"
+  ]
+}
