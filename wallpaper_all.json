@@ -1,4 +1,6 @@
-        [
+{
+	"Wallpapers":      
+	[
 			{
 				"author": "OSheden",
 				"url": "https://github.com/OSHeden/Erosion/blob/master/DistractionFree/Wallpapers/alone.jpg?raw=true",
@@ -1195,3 +1197,4 @@
 
 			}
 		]
+}
