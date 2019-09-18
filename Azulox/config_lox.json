@@ -3,7 +3,7 @@
   "latestVersionCode": 38,
   "disableRequest": {
     "below": 37,
-    "on": "37.0"
+    "on": "37"
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.lox",
   "releaseNotes": [
