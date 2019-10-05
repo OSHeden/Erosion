@@ -1,0 +1,12 @@
+{
+  "latestVersion": "15.0",
+  "latestVersionCode": 15,
+  "disableRequest": {
+    "below": 14,
+    "on": "14"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.osheden.blackarmy.ruby",
+  "releaseNotes": [
+    "More supported <b>apps</b> and <b><i>activities</i></b>"
+  ]
+}
