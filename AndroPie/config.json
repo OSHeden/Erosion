@@ -1,0 +1,12 @@
+{
+  "latestVersion": "18.0",
+  "latestVersionCode": 18,
+  "disableRequest": {
+    "below": 17,
+    "on": "17"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.osheden.andropie",
+  "releaseNotes": [
+    "More supported <b>apps</b> and <b><i>activities</i></b>"
+  ]
+}
