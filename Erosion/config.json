@@ -1,0 +1,12 @@
+{
+  "latestVersion": "67.0",
+  "latestVersionCode": 67,
+  "disableRequest": {
+    "below": 66,
+    "on": "66"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.osheden.erosion",
+  "releaseNotes": [
+    "More supported <b>apps</b> and <b><i>activities</i></b>"
+  ]
+}
