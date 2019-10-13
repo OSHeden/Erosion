@@ -1,8 +1,11 @@
 {
   "latestVersion": "74.0",
   "latestVersionCode": 74,
+  "disableRequest": {
+    "below": 72
+  },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.raya",
   "releaseNotes": [
-    "More supported <b>apps</b> and <b><i>activities</i></b>"
+    "More supported <b>apps</b> and <b>activities</b>",
   ]
 }
