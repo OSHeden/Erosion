@@ -1,6 +1,60 @@
         [
 			{
 				"author": "OSheden",
+				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/toile.png",
+				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/toile.png",
+				"name": "Toile"
+			},
+			{
+				"author": "OSheden",
+				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/TrickorTreat2.png",
+				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/TrickorTreat2.png",
+				"name": "TrickorTreat2"
+			},
+			{
+				"author": "OSheden",
+				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/TrickorTreat.png",
+				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/TrickorTreat.png",
+				"name": "TrickorTreat"
+			},
+			{
+				"author": "OSheden",
+				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/JambesSorciere.png",
+				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/JambesSorciere.png",
+				"name": "Whisper"
+			},
+			{
+				"author": "OSheden",
+				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/Homme.png",
+				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/Homme.png",
+				"name": "RedEyes"
+			},
+			{
+				"author": "OSheden",
+				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/Halloween.png",
+				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/Halloween.png",
+				"name": "Halloween"
+			},
+			{
+				"author": "OSheden",
+				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/Fantome.png",
+				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/Fantome.png",
+				"name": "Hunted"
+			},
+			{
+				"author": "OSheden",
+				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/Dents.png",
+				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/Dents.png",
+				"name": "Dents"
+			},
+			{
+				"author": "OSheden",
+				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/Bougie.png",
+				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/Bougie.png",
+				"name": "Bougie"
+			},
+			{
+				"author": "OSheden",
 				"url": "https://github.com/OSHeden/Erosion/blob/master/Ciclo/Wallapers/Femme.png?raw=true",
 				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Ciclo/Wallapers/Femme.png?raw=true",
 				"name": "Woman"
