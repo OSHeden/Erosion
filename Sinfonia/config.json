@@ -2,7 +2,7 @@
   "latestVersion": "60.0",
   "latestVersionCode": 60,
   "disableRequest": {
-    "below": 58
+    "below": 60
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.sinfonia",
   "releaseNotes": [
