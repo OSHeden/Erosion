@@ -2,7 +2,7 @@
   "latestVersion": "59.0",
   "latestVersionCode": 59,
   "disableRequest": {
-    "below": 58
+    "below": 59
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.nube",
   "releaseNotes": [
