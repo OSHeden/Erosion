@@ -2,7 +2,7 @@
   "latestVersion": "45.0",
   "latestVersionCode": 45,
   "disableRequest": {
-    "below": 44
+    "below": 45
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.azulox",
   "releaseNotes": [
