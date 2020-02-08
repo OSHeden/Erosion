@@ -1253,5 +1253,61 @@
 				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/Trium/Wallpapers/triangle-903458_1920_thumbs.jpg?raw=true",
 				"name": "triangle5"
 
+			},
+			{
+				"author": "OSheden",
+				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/stony_toy_2.png",
+				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/stony_toy_2.png",
+				"name": "Toy 2"
+
+			},
+			{
+				"author": "OSheden",
+				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/stony_toy.png",
+				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/stony_toy.png",
+				"name": "Toy"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/stony_snake.png",
+				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/stony_snake.png",
+				"name": "Snake"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/stony_illustration.png",
+				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/stony_illustration.png",
+				"name": "Buildings"
+
+			},
+			{
+				"author": "OSheden",
+				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/stony_fuschia.png",
+				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/stony_fuschia.png",
+				"name": "Fuschia"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/stony_cross.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/stony_cross.jpg",
+				"name": "Cross"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/stony_couple.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/stony_couple.jpg",
+				"name": "Couple"
+
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/stony_celtic.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/stony_celtic.jpg",
+				"name": "Celtic"
+
 			}
 		]
