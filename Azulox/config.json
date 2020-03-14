@@ -1,8 +1,8 @@
 {
-  "latestVersion": "47.0",
-  "latestVersionCode": 47,
+  "latestVersion": "48.0",
+  "latestVersionCode": 48,
   "disableRequest": {
-    "below": 46
+    "below": 47
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.azulox",
   "releaseNotes": [
