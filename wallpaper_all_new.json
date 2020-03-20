@@ -1309,5 +1309,12 @@
 				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/stony_celtic.jpg",
 				"name": "Celtic"
 
+			},
+			{
+				"author": "Pixabay",
+				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/moustache.png",
+				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/moustache.png",
+				"name": "Moustache"
+
 			}
 		]
