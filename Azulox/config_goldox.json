@@ -2,7 +2,7 @@
   "latestVersion": "49.0",
   "latestVersionCode": 49,
   "disableRequest": {
-    "below": 48
+    "below": 49
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.goldox",
   "releaseNotes": [
