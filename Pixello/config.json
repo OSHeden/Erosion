@@ -1,6 +1,6 @@
 {
-  "latestVersion": "49.0",
-  "latestVersionCode": 49,
+  "latestVersion": "50.0",
+  "latestVersionCode": 50,
   "disableRequest": {
     "below": 49
   },
