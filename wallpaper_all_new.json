@@ -1,6 +1,12 @@
         [
 			{
 				"author": "OSheden",
+				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/Ruby.png",
+				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/Ruby.png",
+				"name": "Ruby"
+			},
+			 {
+				"author": "OSheden",
 				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/toile.png",
 				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/toile.png",
 				"name": "Toile"
