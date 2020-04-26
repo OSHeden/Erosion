@@ -2,7 +2,7 @@
   "latestVersion": "76.0",
   "latestVersionCode": 76,
   "disableRequest": {
-    "below": 75
+    "below": 76
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.oscuro",
   "releaseNotes": [
