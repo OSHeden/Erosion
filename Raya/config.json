@@ -2,7 +2,7 @@
   "latestVersion": "92.0",
   "latestVersionCode": 92,
   "disableRequest": {
-    "below": 91
+    "below": 92
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.raya",
   "releaseNotes": [
