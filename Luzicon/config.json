@@ -2,7 +2,7 @@
   "latestVersion": "80.0",
   "latestVersionCode": 80,
   "disableRequest": {
-    "below": 79
+    "below": 80
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.luzicon",
   "releaseNotes": [
