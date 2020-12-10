@@ -2,7 +2,7 @@
   "latestVersion": "51.0",
   "latestVersionCode": 51,
   "disableRequest": {
-    "below": 50
+    "below": 51
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.blackarmy.omni",
   "releaseNotes": [
