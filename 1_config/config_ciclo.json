@@ -2,7 +2,7 @@
   "latestVersion": "73.0",
   "latestVersionCode": 73,
   "disableRequest": {
-    "below": 72
+    "below": 73
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.ciclo",
   "releaseNotes": [
