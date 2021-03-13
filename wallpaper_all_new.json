@@ -1,6 +1,24 @@
         [
 			{
 				"author": "OSheden",
+				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/Minimalist_Space.png",
+				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/Minimalist_Space.png",
+				"name": "Min_Space"
+			},
+		{
+				"author": "OSheden",
+				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/Minimalist_Android.png",
+				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/Minimalist_Android.png",
+				"name": "Min_Android"
+			},
+		{
+				"author": "OSheden",
+				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/Minimalist_Google.png",
+				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/Minimalist_Google.png",
+				"name": "Min_Google"
+			},
+		{
+				"author": "OSheden",
 				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/Ruby.png",
 				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/Ruby.png",
 				"name": "Ruby"
