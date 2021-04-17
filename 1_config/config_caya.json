@@ -2,7 +2,7 @@
   "latestVersion": "25.0",
   "latestVersionCode": 25,
   "disableRequest": {
-    "below": 24
+    "below": 25
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.caya",
   "releaseNotes": [
