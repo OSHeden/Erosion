@@ -1,8 +1,8 @@
 {
-  "latestVersion": "25.0",
-  "latestVersionCode": 25,
+  "latestVersion": "26.0",
+  "latestVersionCode": 26,
   "disableRequest": {
-    "below": 25
+    "below": 26
   }, 
   "url": "https://play.google.com/store/apps/details?id=com.osheden.goody",
   "releaseNotes": [
