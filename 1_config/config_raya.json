@@ -1,8 +1,8 @@
 {
-  "latestVersion": "116.0",
-  "latestVersionCode": 116,
+  "latestVersion": "118.0",
+  "latestVersionCode": 118,
   "disableRequest": {
-    "below": 116
+    "below": 118
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.raya",
   "releaseNotes": [
