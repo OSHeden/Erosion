@@ -1,8 +1,8 @@
 {
-  "latestVersion": "17.0",
-  "latestVersionCode": 17,
+  "latestVersion": "18.0",
+  "latestVersionCode": 18,
   "disableRequest": {
-    "below": 17
+    "below": 18
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.shapy",
   "releaseNotes": [
