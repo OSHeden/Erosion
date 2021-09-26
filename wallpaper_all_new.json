@@ -1,5 +1,23 @@
         [
-			{
+		{
+				"author": "OSheden",
+				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/harley_quinn_1.png",
+				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/harley_quinn_1.png",
+				"name": "Harly Quinn 1"
+			},
+		{
+				"author": "OSheden",
+				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/harley_quinn_2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/harley_quinn_2.jpg",
+				"name": "Harly Quinn 2"
+			},
+		{
+				"author": "OSheden",
+				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/harley_quinn_3.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/harley_quinn_3.jpg",
+				"name": "Harly Quinn 3"
+			},
+		{
 				"author": "OSheden",
 				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/Minimalist_Space.png",
 				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/Minimalist_Space.png",
