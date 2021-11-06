@@ -1,8 +1,8 @@
 {
-  "latestVersion": "100.0",
-  "latestVersionCode": 100,
+  "latestVersion": "101.0",
+  "latestVersionCode": 101,
   "disableRequest": {
-    "below": 100
+    "below": 101
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.nube",
   "releaseNotes": [
