@@ -1,8 +1,8 @@
 {
-  "latestVersion": "63.0",
-  "latestVersionCode": 63,
+  "latestVersion": "64.0",
+  "latestVersionCode": 64,
   "disableRequest": {
-    "below": 63
+    "below": 64
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.raya.black",
   "releaseNotes": [
