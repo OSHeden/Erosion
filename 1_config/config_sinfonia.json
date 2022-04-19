@@ -1,8 +1,8 @@
 {
-  "latestVersion": "106.0",
-  "latestVersionCode": 106,
+  "latestVersion": "107.0",
+  "latestVersionCode": 107,
   "disableRequest": {
-    "below": 106
+    "below": 107
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.sinfonia",
   "releaseNotes": [
