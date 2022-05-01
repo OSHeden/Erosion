@@ -1,8 +1,8 @@
 {
-  "latestVersion": "116.0",
-  "latestVersionCode": 116,
+  "latestVersion": "117.0",
+  "latestVersionCode": 117,
   "disableRequest": {
-    "below": 116
+    "below": 117
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.luzicon",
   "releaseNotes": [
