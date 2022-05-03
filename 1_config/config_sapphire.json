@@ -1,8 +1,8 @@
 {
-  "latestVersion": "80.0",
-  "latestVersionCode": 80 ,
+  "latestVersion": "81.0",
+  "latestVersionCode": 81 ,
   "disableRequest": {
-    "below": 80
+    "below": 81
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.blackarmy.sapphire",
   "releaseNotes": [
