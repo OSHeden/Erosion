@@ -1,6 +1,36 @@
         [
 		{
 				"author": "OSheden",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/common/abstract_colorful.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/common/abstract_colorful.jpg?raw=true",
+				"name": "Abstract Colorful"
+			},
+		{
+				"author": "OSheden",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/common/arrows.png?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/common/arrows.png?raw=true",
+				"name": "Arrows"
+			},
+		{
+				"author": "OSheden",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/common/moon.png?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/common/moon.png?raw=true",
+				"name": "Moon"
+			},
+		{
+				"author": "OSheden",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/common/jellyfish.png?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/common/jellyfish.png?raw=true",
+				"name": "Jellyfish"
+			},
+		{
+				"author": "OSheden",
+				"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/common/hot_air_ballons.jpg?raw=true",
+				"thumbUrl": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/common/hot_air_ballons.jpg?raw=true",
+				"name": "Hot air ballons"
+			},
+		{
+				"author": "OSheden",
 				"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/harley_quinn_1.png",
 				"thumbUrl": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/harley_quinn_1.png",
 				"name": "Harly Quinn 1"
