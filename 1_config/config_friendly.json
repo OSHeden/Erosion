@@ -1,8 +1,8 @@
 {
-  "latestVersion": "12.0",
-  "latestVersionCode": 12,
+  "latestVersion": "13.0",
+  "latestVersionCode": 13,
   "disableRequest": {
-    "below": 12
+    "below": 13
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.friendly",
   "releaseNotes": [
