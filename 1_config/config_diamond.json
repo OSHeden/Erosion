@@ -1,8 +1,8 @@
 {
-  "latestVersion": "85.0",
-  "latestVersionCode": 85,
+  "latestVersion": "86.0",
+  "latestVersionCode": 86,
   "disableRequest": {
-    "below": 85
+    "below": 86
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.blackarmy.diamond",
   "releaseNotes": [
