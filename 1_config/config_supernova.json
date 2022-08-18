@@ -1,6 +1,7 @@
 {
-  "latestVersion": "25.0",
-  "latestVersionCode": 25,
+  "_comment": "Mettre 27 de partout la prochaine fois et supprimer cette ligne",
+  "latestVersion": "26.0",
+  "latestVersionCode": 26,
   "disableRequest": {
     "below": 25
   },
