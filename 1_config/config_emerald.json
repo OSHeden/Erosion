@@ -1,8 +1,8 @@
 {
-  "latestVersion": "87.0",
-  "latestVersionCode": 87,
+  "latestVersion": "88.0",
+  "latestVersionCode": 88,
   "disableRequest": {
-    "below": 87
+    "below": 88
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.blackarmy.emerald",
   "releaseNotes": [
