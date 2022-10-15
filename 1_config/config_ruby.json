@@ -1,8 +1,8 @@
 {
-  "latestVersion": "89.0",
-  "latestVersionCode": 89,
+  "latestVersion": "90.0",
+  "latestVersionCode": 90,
   "disableRequest": {
-    "below": 89
+    "below": 90
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.blackarmy.ruby",
   "releaseNotes": [
