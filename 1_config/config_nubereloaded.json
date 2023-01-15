@@ -1,8 +1,8 @@
 {
-  "latestVersion": "8.0",
-  "latestVersionCode": 8,
+  "latestVersion": "11.0",
+  "latestVersionCode": 11,
   "disableRequest": {
-    "below": 8
+    "below": 11
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.nube.reloaded",
   "releaseNotes": [
