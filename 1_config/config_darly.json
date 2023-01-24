@@ -1,8 +1,8 @@
 {
-  "latestVersion": "45.0",
-  "latestVersionCode": 45,
+  "latestVersion": "46.0",
+  "latestVersionCode": 46,
   "disableRequest": {
-    "below": 45
+    "below": 46
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.darly",
   "releaseNotes": [
