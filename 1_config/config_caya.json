@@ -1,8 +1,8 @@
 {
-  "latestVersion": "55.0",
-  "latestVersionCode": 55 ,
+  "latestVersion": "57.0",
+  "latestVersionCode": 57 ,
   "disableRequest": {
-    "below": 55
+    "below": 57
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.caya",
   "releaseNotes": [
