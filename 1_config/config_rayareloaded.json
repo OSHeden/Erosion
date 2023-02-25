@@ -1,8 +1,8 @@
 {
-  "latestVersion": "33.0",
-  "latestVersionCode": 33,
+  "latestVersion": "34.0",
+  "latestVersionCode": 34,
   "disableRequest": {
-    "below": 33
+    "below": 34
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.raya.reloaded",
   "releaseNotes": [
