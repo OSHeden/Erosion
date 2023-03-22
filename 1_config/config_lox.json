@@ -1,8 +1,8 @@
 {
-  "latestVersion": "111",
-  "latestVersionCode": 111
+  "latestVersion": "112",
+  "latestVersionCode": 112
   "disableRequest": {
-    "below": 111
+    "below": 112
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.lox",
   "releaseNotes": [
