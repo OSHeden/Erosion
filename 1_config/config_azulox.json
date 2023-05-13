@@ -1,6 +1,5 @@
 {
   "latestVersion": "115.0",
-  <!-- version 117 la prochaine fois. La version 116 a servi de test. Tu peux supprimer cette ligne -->
   "latestVersionCode": 115,
   "disableRequest": {
     "below": 115
