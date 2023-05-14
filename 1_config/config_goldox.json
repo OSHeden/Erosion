@@ -1,6 +1,6 @@
-const jsondata = { 
-"name": "commentaire", 
-//Comments: PASSER DIRECTEMENT A LA VERSION 117
+{
+"key": "value",
+"comments":"PASSER DIRECTEMENT A LA VERSION 117"
 }
 
 {
