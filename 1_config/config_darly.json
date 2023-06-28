@@ -1,0 +1,11 @@
+{
+  "latestVersion": "54.0",
+  "latestVersionCode": 54 ,
+  "disableRequest": {
+    "below": 54
+  },
+  "url": "https://drive.proton.me/urls/MVBKN8H1E8#MVFmDs2bU22t",
+  "releaseNotes": [
+    "More supported <b>apps</b> and <b><i>activities</i></b>"
+  ]
+}
