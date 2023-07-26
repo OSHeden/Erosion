@@ -1,8 +1,8 @@
 {
-  "latestVersion": "20.0",
-  "latestVersionCode": 20,
+  "latestVersion": "21.0",
+  "latestVersionCode": 21,
   "disableRequest": {
-    "below": 20
+    "below": 21
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.nube.reloaded",
   "releaseNotes": [
