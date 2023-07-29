@@ -1,11 +1,11 @@
 {
-  "latestVersion": "120.0",
-  "latestVersionCode": 120,
+  "latestVersion": "121.0",
+  "latestVersionCode": 121,
   "disableRequest": {
-    "below": 120
+    "below": 119
   },
-  "url": "https://drive.proton.me/urls/S9V7E3ZFPW#6kX9pFCHyEuD",
+  "url": "https://ko-fi.com/osheden/tiers",
   "releaseNotes": [
-    "More supported <b>apps</b> and <b><i>activities</i></b>"
+    "Join Ko-fi for the future releases and discover more icon packs!"
   ]
 }
