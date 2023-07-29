@@ -1,11 +1,11 @@
 {
-  "latestVersion": "56.0",
-  "latestVersionCode": 56,
+  "latestVersion": "57.0",
+  "latestVersionCode": 57,
   "disableRequest": {
-    "below": 56
+    "below": 55
   },
-  "url": "https://drive.proton.me/urls/MVBKN8H1E8#MVFmDs2bU22t",
+  "url": "https://ko-fi.com/osheden/tiers",
   "releaseNotes": [
-    "More supported <b>apps</b> and <b><i>activities</i></b>"
+    "New updates will only be available through Ko-fi"
   ]
 }
