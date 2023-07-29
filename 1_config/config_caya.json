@@ -1,11 +1,11 @@
 {
-  "latestVersion": "71.0",
-  "latestVersionCode": 71,
+  "latestVersion": "100.0",
+  "latestVersionCode": 100,
   "disableRequest": {
-    "below": 71
+    "below": 70
   },
-  "url": "https://play.google.com/store/apps/details?id=com.osheden.caya",
+  "url": "https://ko-fi.com/osheden/tiers",
   "releaseNotes": [
-    "More supported <b>apps</b> and <b><i>activities</i></b>"
+    "Caya cannot be maintained anymore on Google Play. <b>Join us on Ko-fi for the future updates!</b>"
   ]
 }
