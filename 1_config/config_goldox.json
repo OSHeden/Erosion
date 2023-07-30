@@ -1,8 +1,8 @@
 {
-  "latestVersion": "119.0",
-  "latestVersionCode": 119,
+  "latestVersion": "121.0",
+  "latestVersionCode": 121,
   "disableRequest": {
-    "below": 119
+    "below": 121
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.goldox",
   "releaseNotes": [
