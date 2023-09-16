@@ -1,8 +1,8 @@
 {
-  "latestVersion": "56.0",
-  "latestVersionCode": 56,
+  "latestVersion": "58.0",
+  "latestVersionCode": 58,
   "disableRequest": {
-    "below": 56
+    "below": 58
   },
   "url": "https://drive.proton.me/urls/KHPYJK8SPR#iiBCjwKQNcqu",
   "releaseNotes": [
