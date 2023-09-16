@@ -1,8 +1,8 @@
 {
-  "latestVersion": "103.0",
-  "latestVersionCode": 103,
+  "latestVersion": "104.0",
+  "latestVersionCode": 104,
   "disableRequest": {
-    "below": 103
+    "below": 104
   },
   "url": "https://drive.proton.me/urls/RWHHFS0EZ8#UZBNzwJUJlSo",
   "releaseNotes": [
