@@ -1,8 +1,8 @@
 {
-  "latestVersion": "64.0",
-  "latestVersionCode": 64,
+  "latestVersion": "67.0",
+  "latestVersionCode": 67,
   "disableRequest": {
-    "below": 64
+    "below": 67
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.stony",
   "releaseNotes": [
