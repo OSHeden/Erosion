@@ -316,7 +316,339 @@
 			"name": "walking"
 		},
 		{
-			"name": "Abstract",
 			"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/abstract.jpg?raw=true",
+			"name": "Abstract"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/common/essential1.jpg?raw=true",
+			"name": "Essential1"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/common/essential2.jpg?raw=true",
+			"name": "Essential2"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/common/essential3.jpg?raw=true",
+			"name": "Essential3"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/common/essential4.jpg?raw=true",
+			"name": "Essential4"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/common/essential5.jpg?raw=true",
+			"name": "Essential5"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Ciclo/Wallapers/fish.jpg?raw=true",
+			"name": "fish"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Ciclo/Wallapers/ice.jpg?raw=true",
+			"name": "ice"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Ciclo/Wallapers/island.jpg?raw=true",
+			"name": "island"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Ciclo/Wallapers/mystery.jpg?raw=true",
+			"name": "mystery"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Ciclo/Wallapers/pont.jpg?raw=true",
+			"name": "pont"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Ciclo/Wallapers/sea.jpg?raw=true",
+			"name": "sea"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Ciclo/Wallapers/seagull.jpg?raw=true",
+			"name": "seagull"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Ciclo/Wallapers/thailand.jpg?raw=true",
+			"name": "thailand"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Ciclo/Wallapers/venice.jpg?raw=true",
+			"name": "venice"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Ciclo/Wallapers/water.jpg?raw=true",
+			"name": "water"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Nube/Wallpapers/boat-house-2881457_1920.jpg?raw=true",
+			"name": "boat"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Nube/Wallpapers/flower-3079872.jpg?raw=true",
+			"name": "flower"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Nube/Wallpapers/moon-3084617.png?raw=true",
+			"name": "moon"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Nube/Wallpapers/portrait-3087255.jpg?raw=true",
+			"name": "portrait"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Nube/Wallpapers/snake-3066876_1920.png?raw=true",
+			"name": "snake"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Nube/Wallpapers/tomcat-3092804_1920.jpg?raw=true",
+			"name": "cat"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Nube/Wallpapers/underwater-2991478.jpg?raw=true",
+			"name": "underwater"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Raya/Wallpapers/asphalt.png?raw=true",
+			"name": "asphalt"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Raya/Wallpapers/bg_raye.jpg?raw=true",
+			"name": "raye"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Raya/Wallpapers/bg_raye2.jpg?raw=true",
+			"name": "raye2"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Raya/Wallpapers/rose.png?raw=true",
+			"name": "rose"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Raya/Wallpapers/trail.jpg?raw=true",
+			"name": "trail"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Raya/Wallpapers/woman.jpg?raw=true",
+			"name": "woman"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/cat_black.png?raw=true",
+			"name": "Cat_Black"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/crow.png?raw=true",
+			"name": "Crow"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/horse.jpg?raw=true",
+			"name": "Horse"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/horse_2.jpg?raw=true",
+			"name": "Horse_2"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/joker.jpg?raw=true",
+			"name": "Joker"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/man_cross.jpg?raw=true",
+			"name": "Man_Cross"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/man_monkey.jpg?raw=true",
+			"name": "Man_Monkey"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/moon.jpg?raw=true",
+			"name": "Moon"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/music.jpg?raw=true",
+			"name": "Music"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/phoenix.jpg?raw=true",
+			"name": "Phoenix"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/portrait.jpg?raw=true",
+			"name": "Portrait"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/painting.jpg?raw=true",
+			"name": "Painting"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/portrait_woman.jpg?raw=true",
+			"name": "Portrait_woman"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/reverse.jpg?raw=true",
+			"name": "Reverse"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/silhouette.jpg?raw=true",
+			"name": "Silhouette"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/sing.jpg?raw=true",
+			"name": "Sing"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/terror.jpg?raw=true",
+			"name": "Terror"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/violin.jpg?raw=true",
+			"name": "Violin"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/waves.png?raw=true",
+			"name": "Waves"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/wolf.jpg?raw=true",
+			"name": "Wolf"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/woman.jpg?raw=true",
+			"name": "Woman"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/women_art.jpg?raw=true",
+			"name": "Women_art"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/women_black.jpg?raw=true",
+			"name": "Women_Black"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/body.jpg?raw=true",
+			"name": "Body"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Rayab_Black/Wallpapers/ink.png?raw=true",
+			"name": "Ink"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/alien.jpg?raw=true",
+			"name": "alien"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/android_O.jpg?raw=true",
+			"name": "android_o"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/chat.jpg?raw=true",
+			"name": "chat"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/dragon.jpg?raw=true",
+			"name": "dragon"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/geek.jpg?raw=true",
+			"name": "geek"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/girafe.jpg?raw=true",
+			"name": "girafe"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/horloge.jpg?raw=true",
+			"name": "horloge"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/lapin.jpg?raw=true",
+			"name": "lapin"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/parapluie.jpg?raw=true",
+			"name": "parapluie"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/point.jpg?raw=true",
+			"name": "poing"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/scrapbook.jpg?raw=true",
+			"name": "scrapbook"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/skull.jpg?raw=true",
+			"name": "skull"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/velo.jpg?raw=true",
+			"name": "velo"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/wave.jpg?raw=true",
+			"name": "wave"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/zen.jpg?raw=true",
+			"name": "zen"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/wallpaper_purple.jpg?raw=true",
+			"name": "Purple"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/wallpaper_pink.jpg?raw=true",
+			"name": "Pink"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/wallpaper_cyan.jpg?raw=true",
+			"name": "Cyan"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/bubbles.jpg?raw=true",
+			"name": "Bubbles"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/quote.jpg?raw=true",
+			"name": "Quote"
+		},
+		{
+			"url": "https://github.com/OSHeden/Erosion/blob/master/Sinfonia/Wallpapers/wallpaper_md.png?raw=true",
+			"name": "Material design"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/stony_toy_2.png",
+			"name": "Toy 2"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/stony_toy.png",
+			"name": "Toy"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/stony_snake.png",
+			"name": "Snake"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/stony_illustration.png",
+			"name": "Buildings"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/stony_fuschia.png",
+			"name": "Fuschia"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/stony_cross.jpg",
+			"name": "Cross"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/stony_couple.jpg",
+			"name": "Couple"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/common/stony_celtic.jpg",
+			"name": "Celtic"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/moustache.png",
+			"name": "Moustache"
 		}
 	]
