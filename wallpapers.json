@@ -650,5 +650,9 @@
 		{
 			"url": "https://raw.githubusercontent.com/OSHeden/Erosion/master/wallpapers/moustache.png",
 			"name": "Moustache"
+		},
+		{
+			"name": "Wolf",
+			"url": "https://github.com/OSHeden/Erosion/blob/master/wallpapers/wolf.jpeg?raw=true"
 		}
 	]
