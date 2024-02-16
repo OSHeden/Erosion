@@ -1,8 +1,8 @@
 {
-  "latestVersion": "146.0",
-  "latestVersionCode": 146,
+  "latestVersion": "147.0",
+  "latestVersionCode": 147,
   "disableRequest": {
-    "below": 146
+    "below": 147
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.oscuro",
   "releaseNotes": [
