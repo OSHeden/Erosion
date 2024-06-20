@@ -1,8 +1,8 @@
 {
-  "latestVersion": "200.0",
-  "latestVersionCode": 200,
+  "latestVersion": "201.0",
+  "latestVersionCode": 201,
   "disableRequest": {
-    "below": 200
+    "below": 201
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.gin",
   "releaseNotes": [
