@@ -1,11 +1,11 @@
 {
-  "latestVersion": "200.0",
-  "latestVersionCode": 200,
+  "latestVersion": "999.0",
+  "latestVersionCode": 999,
   "disableRequest": {
-    "below": 200
+    "below": 999
   },
-  "url": "https://play.google.com/store/apps/details?id=com.osheden.blackarmy.emerald",
+  "url": "https://ko-fi.com/osheden/tiers",
   "releaseNotes": [
-    "More supported <b>apps</b> and <b><i>activities</i></b>"
+    "The future updates of Black Army icon packs are on Ko-fi only. Switch to Dark Army Icon Packs if you want to stay on Google Play. Read the changelog in the dashboard if you didn't read the news about Black Army :-)"
   ]
 }
