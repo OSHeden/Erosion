@@ -1,0 +1,11 @@
+{
+  "latestVersion": "201.0",
+  "latestVersionCode": 201,
+  "disableRequest": {
+    "below": 201
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.osheden.supernova",
+  "releaseNotes": [
+    "More supported <b>apps</b> and <b><i>activities</i></b>"
+  ]
+}
