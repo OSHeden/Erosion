@@ -1,8 +1,8 @@
 {
-  "latestVersion": "202.0",
-  "latestVersionCode": 202,
+  "latestVersion": "203.0",
+  "latestVersionCode": 203,
   "disableRequest": {
-    "below": 202
+    "below": 203
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.whitart",
   "releaseNotes": [
