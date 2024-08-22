@@ -1,0 +1,11 @@
+{
+  "latestVersion": "203.0",
+  "latestVersionCode": 203,
+  "disableRequest": {
+    "below": 203
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.osheden.test",
+  "releaseNotes": [
+    "More supported <b>apps</b> and <b><i>activities</i></b>"
+  ]
+}
