@@ -1,8 +1,8 @@
 {
-  "latestVersion": "126.0",
-  "latestVersionCode": 126,
+  "latestVersion": "999.0",
+  "latestVersionCode": 999,
   "disableRequest": {
-    "below": 126
+    "below": 999
   },
   "url": "https://ko-fi.com/osheden/tiers",
   "releaseNotes": [
