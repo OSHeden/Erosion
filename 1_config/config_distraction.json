@@ -1,8 +1,8 @@
 {
-  "latestVersion": "205.0",
-  "latestVersionCode": 205,
+  "latestVersion": "999.0",
+  "latestVersionCode": 999,
   "disableRequest": {
-    "below": 205
+    "below": 999
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.distraction.free.icon.pack",
   "releaseNotes": [
