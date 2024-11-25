@@ -1,8 +1,8 @@
 {
-  "latestVersion": "8.0",
-  "latestVersionCode": 8,
+  "latestVersion": "999.0",
+  "latestVersionCode": 999,
   "disableRequest": {
-    "below": 8
+    "below": 999
   },
   "url": "https://t.me/osheden_kofi",
   "releaseNotes": [
